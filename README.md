@@ -1,49 +1,41 @@
 # Hi, I'm Mamunur 👋
 
-Second-year **Artificial Intelligence** student at **Yunnan University**, Kunming, China — originally from Sundarganj, Bangladesh.
+Third-year **Artificial Intelligence** student at **Yunnan University** in Kunming, China, building AI systems and full-stack products that turn coursework and real problems into working software.
 
-I like taking coursework ideas further than the assignment asks, and turning them into things people can actually open and use.
+**[Portfolio](https://mamunurmim.com)** · [LinkedIn](https://www.linkedin.com/in/mimynu) · Open to AI and software internships
 
----
+## Selected work
 
-### 🚍 Smart Campus Bus Tracker
+### 🚍 YNU Bus Tracker
 
-A campus shuttle tracker and route optimizer that began as a C++ data-structures project and grew into a live full-stack product.
+A campus shuttle product that grew from a C++ data-structures project into a live, production-style web system.
 
-**[▶ Try it live](https://ynu-bus-tracker.netlify.app)**
+**[Try the live app](https://ynu-bus-tracker.netlify.app)** · [View source](https://github.com/mamunur-ynu/ynu-bus-tracker-app) · [Read the case study](https://mamunurmim.com/projects/ynu-bus-tracker)
 
-- **Dijkstra route optimization** — shortest path between any two campus stops, re-routing live when a delay is applied
-- **3D campus city** (Three.js) — buses drive the real route loops, pause at stops, and obey traffic lights with second-countdowns
-- **AI assistant** — an LLM agent that calls the routing engine as a *tool*, so quoted travel times are computed, never hallucinated
-- **Real-time cloud** — Supabase Postgres, live multi-device sync, admin-gated editing
-- Bilingual EN / 中文, installable PWA, 16 unit tests, deployed by CI/CD on every push
+- Dijkstra routes computed client-side in under 1 ms across the documented test environment
+- AI assistant calls the route engine as a tool, grounding answers in real calculations
+- Interactive Three.js city, Supabase realtime sync, installable PWA, and bilingual EN / 中文 interface
+- 501 unit tests run through GitHub Actions
 
-| | |
-|---|---|
-| Web app — React · TypeScript · Three.js · Supabase | [repo](https://github.com/mamunur-ynu/ynu-bus-tracker-app) |
-| Original C++ system — OOP · STL · Dijkstra | [repo](https://github.com/mamunur-ynu/yunnan-university-smart-campus-bus-tracker) |
+The original C++ implementation is also [available here](https://github.com/mamunur-ynu/yunnan-university-smart-campus-bus-tracker).
 
----
+### 🎓 Preluma
 
-### 🎓 Preluma — AI-powered adaptive learning platform
+An adaptive pre-class learning platform that turns passive reading into a guided five-step Student Mission, with resilient AI assistance, mistake feedback, and teacher analytics.
 
-A Streamlit platform that turns passive pre-class reading into a guided, AI-assisted workflow: an AI brief, worked examples, an adaptive quiz, a mistake clinic, and teacher-facing analytics.
+[View source](https://github.com/mamunur-ynu/Preluma-edtech) · [Read the case study](https://mamunurmim.com/projects/preluma)
 
-**[▶ Try it live](https://prelumaedtech.streamlit.app/)** · [repo](https://github.com/mamunur-ynu/Preluma-edtech)
+- Eight LLM providers behind a seven-step sequential failover chain
+- Supabase/PostgreSQL with twelve relational tables and a local fallback
+- 29 curated topic packs and 13 pytest suites
+- My role in the three-person team: core platform, UI, AI provider layer, authentication, and system architecture
 
-- **8 LLM providers behind a sequential failover chain** — free-tier endpoints rate-limit constantly, so the tutor stays available through individual outages
-- Dual-mode persistence: Supabase (12 tables) with a local fallback
-- 11,310 lines across 15 Python modules, 13 pytest suites
-- *My part in this three-person team: core platform, UI, AI provider layer, authentication, system architecture*
-
----
-
-### 🛠️ Working with
+## Working with
 
 `Python` · `TypeScript` · `C++` · `React` · `Streamlit` · `Three.js` · `Supabase / PostgreSQL` · `LLM APIs` · `Git` · `CI/CD` · `pytest` · `Vitest`
 
-### 📫 Reach me
+## Reach me
 
-- Email: **mamunurmim07@gmail.com**
+- Portfolio: [mamunurmim.com](https://mamunurmim.com)
 - LinkedIn: [mimynu](https://www.linkedin.com/in/mimynu)
-- Live demo: [ynu-bus-tracker.netlify.app](https://ynu-bus-tracker.netlify.app)
+- Email: **mamunurmim07@gmail.com**
