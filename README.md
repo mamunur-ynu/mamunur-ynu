@@ -1,8 +1,8 @@
 # Hi, I'm Mamunur 👋
 
-Third-year **Artificial Intelligence** student at **Yunnan University** in Kunming, China, building AI systems and full-stack products that turn coursework and real problems into working software.
+Third-year, fifth-semester **Artificial Intelligence** student at **Yunnan University** in Kunming, China, building AI systems and full-stack products that turn coursework and real problems into working software. Expected graduation: **2028**.
 
-**[Portfolio](https://mamunurmim.com)** · [LinkedIn](https://www.linkedin.com/in/mimynu) · Open to AI and software internships
+**[Portfolio](https://mamunurmim.com)** · [LinkedIn](https://www.linkedin.com/in/mimynu) · Exploring Summer 2027 AI and software internships
 
 ## Selected work
 
