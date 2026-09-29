@@ -19,6 +19,17 @@ A campus shuttle product that grew from a C++ data-structures project into a liv
 
 The original C++ implementation is also [available here](https://github.com/mamunur-ynu/yunnan-university-smart-campus-bus-tracker).
 
+### 🌾 AgriMind
+
+An installable web app (PWA) that helps smallholder farmers in Bangladesh identify crop diseases from a photo, read weather-based field advice, check market prices, and ask a trilingual (English / বাংলা / 中文) farming assistant — built for the *Advanced Innovation and Entrepreneurship* course at Yunnan University.
+
+**[Try the live app](https://agrimind.nihaoint.com)** · [View source](https://github.com/mamunur-ynu/AgriMind-App)
+
+- Every piece of data is labelled **Live**, **Saved**, or **Demo** so the app never pretends offline or cached data is real-time
+- Multi-provider AI chat (Anthropic, Gemini, Groq) with automatic failover, plus an offline curated FAQ so the assistant still answers with no key configured
+- Works fully offline after first visit; 72 backend, chat-provider, grounding, and citation tests
+- Won **Third Prize (Team)** at the Wochuang Jacaranda Cup Youth Entrepreneurship and Innovation Competition, April 2025
+
 ### 🎓 Preluma
 
 An adaptive pre-class learning platform that turns passive reading into a guided five-step Student Mission, with resilient AI assistance, mistake feedback, and teacher analytics.
@@ -32,7 +43,7 @@ An adaptive pre-class learning platform that turns passive reading into a guided
 
 ## Working with
 
-`Python` · `TypeScript` · `C++` · `React` · `Streamlit` · `Three.js` · `Supabase / PostgreSQL` · `LLM APIs` · `Git` · `CI/CD` · `pytest` · `Vitest`
+`Python` · `TypeScript` · `C++` · `React` · `Vanilla JS / PWA` · `Streamlit` · `Three.js` · `Supabase / PostgreSQL` · `LLM APIs` · `Git` · `CI/CD` · `pytest` · `Vitest`
 
 ## Reach me
 
