@@ -2,7 +2,7 @@
 
 Third-year, fifth-semester **Artificial Intelligence** student at **Yunnan University** in Kunming, China, building AI systems and full-stack products that turn coursework and real problems into working software. Expected graduation: **2028**.
 
-**[Portfolio](https://mamunurmim.com)** · [LinkedIn](https://www.linkedin.com/in/mimynu) · Exploring Summer 2027 AI and software internships
+**[Portfolio](https://mamunurmim.com)** · [LinkedIn](https://www.linkedin.com/in/mamunurmim) · Exploring Summer 2027 AI and software internships
 
 ## Selected work
 
@@ -37,5 +37,5 @@ An adaptive pre-class learning platform that turns passive reading into a guided
 ## Reach me
 
 - Portfolio: [mamunurmim.com](https://mamunurmim.com)
-- LinkedIn: [mimynu](https://www.linkedin.com/in/mimynu)
+- LinkedIn: [mamunurmim](https://www.linkedin.com/in/mamunurmim)
 - Email: **mamunurmim07@gmail.com**
